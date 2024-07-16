@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Enums_Collections.Helpers.Enums
+namespace Enums_Collections
 {
-    public enum MermiSayı
+    internal class Bullet
     {
     }
 }
