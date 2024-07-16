@@ -8,6 +8,8 @@ namespace Enums_Collections.Helpers.Enums
 {
     public enum MermiNovu
     {
-
+        Akm47,
+        NFVP,
+        AVP
     }
 }

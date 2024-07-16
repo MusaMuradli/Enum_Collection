@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Enums_Collections.Helpers.Enums
 {
-    internal class Bullet
+    public enum BulletType
     {
+        MM_5_45,
+        MM_7_47,
+        MM_10_45
+
     }
 }

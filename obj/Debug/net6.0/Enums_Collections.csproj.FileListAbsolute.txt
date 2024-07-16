@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\Enums_Collections\Enums_Collections\obj\Debug\net6.0\Enums_Collections.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Enums_Collections\Enums_Collections\obj\Debug\net6.0\Enums_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Enums_Collections\Enums_Collections\obj\Debug\net6.0\Enums_Collections.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Enums_Collections\Enums_Collections\obj\Debug\net6.0\Enums_Collections.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Enums_Collections\Enums_Collections\obj\Debug\net6.0\Enums_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Enums_Collections\Enums_Collections\bin\Debug\net6.0\Enums_Collections.exe
+C:\Users\Owner\Desktop\Enums_Collections\Enums_Collections\bin\Debug\net6.0\Enums_Collections.deps.json
+C:\Users\Owner\Desktop\Enums_Collections\Enums_Collections\bin\Debug\net6.0\Enums_Collections.runtimeconfig.json
+C:\Users\Owner\Desktop\Enums_Collections\Enums_Collections\bin\Debug\net6.0\Enums_Collections.dll
+C:\Users\Owner\Desktop\Enums_Collections\Enums_Collections\bin\Debug\net6.0\Enums_Collections.pdb
+C:\Users\Owner\Desktop\Enums_Collections\Enums_Collections\obj\Debug\net6.0\Enums_Collections.dll
+C:\Users\Owner\Desktop\Enums_Collections\Enums_Collections\obj\Debug\net6.0\refint\Enums_Collections.dll
+C:\Users\Owner\Desktop\Enums_Collections\Enums_Collections\obj\Debug\net6.0\Enums_Collections.pdb
+C:\Users\Owner\Desktop\Enums_Collections\Enums_Collections\obj\Debug\net6.0\Enums_Collections.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Enums_Collections\Enums_Collections\obj\Debug\net6.0\ref\Enums_Collections.dll
